@@ -19,4 +19,17 @@ Advanced Google Dorks Automation Tool for Security Researchers and Bug Bounty Hu
 3. Click "Search" on any dork
 4. Or use "Search All Dorks" for comprehensive scanning
 
-## 📁 Project Structure
+## 🛠️ Technologies Used
+- HTML5, CSS3, JavaScript
+- Tailwind CSS
+- Google Fonts
+- GitHub Pages (Hosting)
+
+## ⚠️ Disclaimer
+This tool is for **educational purposes and authorized security testing only**. Always ensure you have proper authorization before testing any website.
+
+## 👨‍💻 Created by
+**Cybertushar**
+
+## 📄 License
+MIT License - Free to use and modify

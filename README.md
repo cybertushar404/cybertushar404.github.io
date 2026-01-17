@@ -3,7 +3,7 @@
 Advanced Google Dorks Automation Tool for Security Researchers and Bug Bounty Hunters.
 
 ## 🌐 Live Demo
-[https://your-username.github.io/cybertushar-dorks-tool/](https://cybertushar404.github.io/cybertushar-dorks-tool/)
+[cybertushar-dorks-tool/](https://cybertushar404.github.io/)
 
 ## ✨ Features
 - 200+ Google Dorks pre-configured
